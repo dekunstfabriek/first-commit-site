@@ -18,3 +18,4 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
 
 De about page zou over mij moeten gaan. Maar toch liever niet.
+Even wat veranderingen aanbrengen.
