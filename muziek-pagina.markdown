@@ -16,7 +16,7 @@ lorem20
            </div>
             <p>{{ post.excerpt }}</p>
             <p>{{ post.map.instrumenten }}</p>
-            <p>{{ map.instrumenten }}</p>
+            <p style="color:red; font-weight:bold;">{{ map.instrumenten }}</p>
         </li>
         {% endfor %}
     </ul>
