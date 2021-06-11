@@ -14,7 +14,7 @@ lorem20
                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
                 <p>{{ post.date | date_to_string }}</p>
            </div>
-            <p>{{ post.excerpt | truncate: 55 }}</p>
+            <p>{{ post.excerpt | truncate: 155 }}</p>
             <p>{{ post.map.instrumenten }}</p>
             <p style="color:red; font-weight:bold;">{{ map.instrumenten }}</p>
         </li>
