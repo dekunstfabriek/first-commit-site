@@ -16,6 +16,7 @@ lorem20
            </div>
             <p>{{ post.excerpt | truncate: 155 }}</p>
             <p>{{ post.map.instrumenten }}</p>
+            <img src="{{ post.map.foto-url }}" alt="foto van meraki">
             <p style="color:red; font-weight:bold;">{{ map.instrumenten }}</p>
         </li>
         {% endfor %}
