@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  samenspel:
+    title: samenspel
+    output: true
 email: luc.vandijck@duffel.be
 description: Eindelijk een eigen website van de Kunstfabriek. Hier vind je info over
   de lessen. Laatste nieuws, zoals bijvoorbeeld over de "KUNSTROUTE". Ook informatie
