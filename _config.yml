@@ -12,15 +12,13 @@ collections:
     title: samenspel
     output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "samenspel"
-    values:
-      map:
-        foto-url:
-        instrumenten:
-    
+- scope:
+    path: ''
+    type: samenspel
+  values:
+    map:
+      foto-url: 
+      instrumenten: 
 email: luc.vandijck@duffel.be
 description: Eindelijk een eigen website van de Kunstfabriek. Hier vind je info over
   de lessen. Laatste nieuws, zoals bijvoorbeeld over de "KUNSTROUTE". Ook informatie
