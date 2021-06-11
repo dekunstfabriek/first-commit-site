@@ -3,8 +3,7 @@ title: Strijkers
 date: 2021-06-11 15:21:00 Z
 map:
   foto-url: "/assets/img/strijkers.jpg"
-  instrumenten: violen - cello - contrabas
-  instrumente: geen saxofoon!
+  instrumenten: geen saxofoon!
 layout: post
 ---
 
