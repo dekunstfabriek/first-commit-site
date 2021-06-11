@@ -1,6 +1,9 @@
 ---
 title: Soul/Funk
 date: 2021-06-11 12:06:00 Z
+map:
+  foto-url: "/assets/img/soulfunk.jpg"
+  instrumenten: Basgitaar - keyboards - Blazers - gitaar -drums - zang
 Instrumenten: Basgitaar - keyboards - Blazers - gitaar -drums - zang
 foto-link: "/assets/img/soulfunk.jpg"
 layout: post
