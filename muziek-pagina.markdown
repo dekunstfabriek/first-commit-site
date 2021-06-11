@@ -15,7 +15,8 @@ lorem20
                 <p>{{ post.date | date_to_string }}</p>
            </div>
             <p>{{ post.excerpt }}</p>
-            <p>{{ post.instrumenten }}</p>
+            <p>{{ post.map.instrumenten }}</p>
+            <p>{{ map.instrumenten }}</p>
         </li>
         {% endfor %}
     </ul>
